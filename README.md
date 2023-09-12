@@ -1,7 +1,5 @@
 # Visualize the Sorting Algos
 
-Live link :- https://algovisualizer-76b0f.web.app
-
 In the project directory, you can run:
 
 ### `npm start`
